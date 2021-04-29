@@ -1,0 +1,188 @@
+Script started on 2021-04-28 21:27:43-0500
+]0;kmanguki@turing: ~/project6kmanguki@turing:~/project6$ 
+]0;kmanguki@turing: ~/project6kmanguki@turing:~/project6$ ls
+address.txt  fulladdr.cpp  fulladdr.h  main.cpp  project6Report.docx  tree.cpp  tree.h  typescript
+]0;kmanguki@turing: ~/project6kmanguki@turing:~/project6$ 
+]0;kmanguki@turing: ~/project6kmanguki@turing:~/project6$ 
+]0;kmanguki@turing: ~/project6kmanguki@turing:~/project6$ g++[1Pls./a.outcd project6/ls[K./a.out [2@g++ *.cpp[C[2@rm -r a.out[Cls[Krm -r a.out [2Pg++ *.cpp[C[2@rm -r a.out[Cls[Kvi main.cppls[Kclear./a.outls[K./a.out[2Pclear[3Plsvi main.cppls[Krm -r a.out [2Pg++ *.cpp[C[2P./a.out[Cls[Kcd project6/[5P./a.outls[Kg++[1Pls./a.outcd project6/[5P./a.outls[Kg++ -Wall *.cpp -o project7[K6
+]0;kmanguki@turing: ~/project6kmanguki@turing:~/project6$ 
+]0;kmanguki@turing: ~/project6kmanguki@turing:~/project6$ ls
+address.txt  fulladdr.cpp  fulladdr.h  main.cpp  [0m[01;32mproject6[0m  project6Report.docx  tree.cpp  tree.h  typescript
+]0;kmanguki@turing: ~/project6kmanguki@turing:~/project6$ ./project6 
+
+
+ Welcome to Binary Search Tree Demonstration
+
+ Enter the name of the file to read: address.txt
+
+ Available options are:
+ 1) Insert a new address into the BST
+ 2) Search BST using a city and state
+ 3) Calculate height of the tree
+ 4) Print tree into a file
+ 5) Exit
+
+ Enter your choice: 3
+
+
+ Height of the tree: 23
+
+ Available options are:
+ 1) Insert a new address into the BST
+ 2) Search BST using a city and state
+ 3) Calculate height of the tree
+ 4) Print tree into a file
+ 5) Exit
+
+ Enter your choice: 2 1
+
+ Enter house/apt number: 1
+
+ Enter the name of the street: 702 E W Trout Drive
+
+ Enter the name of the city: Fayetteville
+
+ Enter the name of the state: AR
+
+ Enter zip code: 72703
+
+ Available options are:
+ 1) Insert a new address into the BST
+ 2) Search BST using a city and state
+ 3) Calculate height of the tree
+ 4) Print tree into a file
+ 5) Exit
+
+ Enter your choice: 2
+
+ Enter the name of the street: 702 W Trout Drive
+
+ Enter the name of the city: Fayetteville
+
+
+
+ Key found in the Tree
+
+1
+702 W Trout Drive
+Fayetteville
+AR
+72703
+
+
+
+ Available options are:
+ 1) Insert a new address into the BST
+ 2) Search BST using a city and state
+ 3) Calculate height of the tree
+ 4) Print tree into a file
+ 5) Exit
+
+ Enter your choice: 4
+
+ Enter the name of the file to print: sorted_text   ree.txt
+
+
+ Available options are:
+ 1) Insert a new address into the BST
+ 2) Search BST using a city and state
+ 3) Calculate height of the tree
+ 4) Print tree into a file
+ 5) Exit
+
+ Enter your choice: 5
+]0;kmanguki@turing: ~/project6kmanguki@turing:~/project6$ ls
+address.txt   fulladdr.h  [0m[01;32mproject6[0m             sorted_tree.txt  tree.h
+fulladdr.cpp  main.cpp    project6Report.docx  tree.cpp         typescript
+]0;kmanguki@turing: ~/project6kmanguki@turing:~/project6$ 
+]0;kmanguki@turing: ~/project6kmanguki@turing:~/project6$ 
+]0;kmanguki@turing: ~/project6kmanguki@turing:~/project6$ ./project6 
+
+
+ Welcome to Binary Search Tree Demonstration
+
+ Enter the name of the file to read: sorted_tree, .txt
+
+ Available options are:
+ 1) Insert a new address into the BST
+ 2) Search BST using a city and state
+ 3) Calculate height of the tree
+ 4) Print tree into a file
+ 5) Exit
+
+ Enter your choice: 3
+
+
+ Height of the tree: 1093
+
+ Available options are:
+ 1) Insert a new address into the BST
+ 2) Search BST using a city and state
+ 3) Calculate height of the tree
+ 4) Print tree into a file
+ 5) Exit
+
+ Enter your choice: 2 1
+
+ Enter house/apt number: 1
+
+ Enter the name of the street: Z
+
+ Enter the name of the city: Z
+
+ Enter the name of the state: Z
+
+ Enter zip code: 1
+
+ Available options are:
+ 1) Insert a new address into the BST
+ 2) Search BST using a city and state
+ 3) Calculate height of the tree
+ 4) Print tree into a file
+ 5) Exit
+
+ Enter your choice: 1 2
+
+ Enter the name of the street: Z
+
+ Enter the name of the city: Z
+
+
+
+ Key found in the Tree
+
+1
+Z
+Z
+Z
+1
+
+
+
+ Available options are:
+ 1) Insert a new address into the BST
+ 2) Search BST using a city and state
+ 3) Calculate height of the tree
+ 4) Print tree into a file
+ 5) Exit
+
+ Enter your choice: 3
+
+
+ Height of the tree: 1094
+
+ Available options are:
+ 1) Insert a new address into the BST
+ 2) Search BST using a city and state
+ 3) Calculate height of the tree
+ 4) Print tree into a file
+ 5) Exit
+
+ Enter your choice: 5
+]0;kmanguki@turing: ~/project6kmanguki@turing:~/project6$ exit[K[K[K[Kls
+address.txt   fulladdr.h  [0m[01;32mproject6[0m             sorted_tree.txt  tree.h
+fulladdr.cpp  main.cpp    project6Report.docx  tree.cpp         typescript
+]0;kmanguki@turing: ~/project6kmanguki@turing:~/project6$ exit
+exit
+
+Script done on 2021-04-28 21:31:32-0500
